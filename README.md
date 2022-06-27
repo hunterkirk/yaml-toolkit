@@ -12,7 +12,7 @@ Includes:
 
 * `yaml-validator`
 
-*  'shellcheck`
+*  `shellcheck`
 
 Usage:
 
