@@ -12,6 +12,8 @@ Includes:
 
 * `yaml-validator`
 
+*  'shellcheck`
+
 Usage:
 
 Mount the folder with your yaml to examine into the toolkit folder
